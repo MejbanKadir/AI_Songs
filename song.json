@@ -2,23 +2,19 @@
     {
         "SongTitle": "Sample Song 1",
         "Artist": "Sample Artist 1",
-        "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+1"
+        "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+1",
+        "Mp3Url": "https://raw.githubusercontent.com/MejbanKadir/AI_Songs/blob/main/S1.mp3"
     },
     {
         "SongTitle": "Sample Song 2",
         "Artist": "Sample Artist 2",
-        "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+2"
+        "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+2",
+        "Mp3Url": "https://raw.githubusercontent.com/MejbanKadir/AI_Songs/blob/main/S1.mp3"
     },
     {
         "SongTitle": "Sample Song 3",
         "Artist": "Sample Artist 3",
-        "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+3"
-    },
-    {
-        "SongTitle": "Sample Song 6",
-        "Artist": "Sample Artist 6",
-        "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+3"
+        "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+3",
+        "Mp3Url": "https://raw.githubusercontent.com/MejbanKadir/AI_Songs/blob/main/S1.mp3"
     }
-
-        
 ]
