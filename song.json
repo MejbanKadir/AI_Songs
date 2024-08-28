@@ -13,11 +13,12 @@
         "SongTitle": "Sample Song 3",
         "Artist": "Sample Artist 3",
         "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+3"
-    }
-
-        {
+    },
+    {
         "SongTitle": "Sample Song 6",
         "Artist": "Sample Artist 6",
         "AlbumArt": "https://via.placeholder.com/200.png?text=Album+Art+3"
-        }
+    }
+
+        
 ]
