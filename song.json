@@ -17,4 +17,11 @@
     "AlbumArt": "https://example.com/album2.jpg",
     "VideoUrl": "https://www.youtube.com/embed/hCMEGQfLIEM"
   },
+    {
+    "SongTitle": "Song 2",
+    "Artist": "Artist 6",
+    "AlbumArt": "https://example.com/album2.jpg",
+    "VideoUrl": "https://www.youtube.com/embed/hCMEGQfLIEM"
+  },
+  
 ]
